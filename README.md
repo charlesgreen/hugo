@@ -1,3 +1,3 @@
-# hugo-cli
+# hugo
 
 Hugo site generator
